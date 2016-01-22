@@ -1,0 +1,28 @@
+name: KT Stream Media
+favicon: null
+layout_spectrum: 0.44695033272728324
+typography_spectrum: 0.1618316131643951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.05158551223576069
+  lightness: 0.46974644460715353
+  saturation: 0.606686039827764
+  rhythmicContrast: 0.8885258950758725
+purpose: []
